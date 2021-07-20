@@ -6,7 +6,7 @@
         
         <div id="Appointment20Min" class="study">
             <div class="stu-head">
-                <h2 class="text-head">20 Min – Virtual Consultation – CAD 66</h2>
+                <h2 class="text-head">20 Min – Virtual Consultation – $52USD</h2>
                 <h3>Web conferencing details provided upon confirmation</h3>
                 <br>
                 Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. 
@@ -18,26 +18,8 @@
             </div>
             <br>
             <br>
-            <div class="a-pic">
-                    <img class="app-pic" src="/images/Westford-2.png" alt="" />
-                </div>
-                <div class="app-book">
-                    <a class="app-b-box" href="/appointment20">
-                        <div class="">
-                            <b>20 Min – Virtual Consultation – CAD 66</b>
-                        </div>
-                    </a>
-                    <a class="app-b-box" href="/appointment40">
-                        <div >
-                            <b>40 Min – Virtual Consultation – CAD 125</b>
-                        </div>
-                    </a>
-                    <a class="app-b-box" href="/appointment60">
-                        <div >
-                            <b>60 Min – Virtual Consultation – CAD 180 </b>                        
-                        </div>
-                    </a>
-                </div>
+            
+            <AppBar />
 
         </div>
         
@@ -51,11 +33,12 @@
 import Head from '../Head.vue'
 import Navi from '../Navi.vue'
 import Footer from '../Footer.vue'
+import AppBar from './AppBar.vue'
 
 export default {
     name: 'Appointment20Min',
     components:{
-        Head, Footer, Navi ,
+        Head, Footer, Navi , AppBar
     },
 
 }

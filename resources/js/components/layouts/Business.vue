@@ -154,57 +154,57 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>BC PNP Entrepreneur Immigration</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $200,000 OR CAD $400,000 if proposing a Key Staff Member</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>3 + years of business ownership or management experience OR 4 + years of senior management experience OR 1+ year of business ownership & management experience and 2+ years of senior management experience within the last 10 years.</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes (province publishes info on previous draws)</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Recommended</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Upon request of BC PNP</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>2-year work period before Letter of Acceptance to apply for Permanent Residence (PR); PR contingent on implementation of the business proposal</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Create at least one permanent, full-time job for a Canadian citizen or permanent resident with the proposed business</td>
                 </tr>
                 
             </table>
@@ -214,57 +214,57 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>BC PNP Entrepreneur Immigration — Regional Pilot (launched on March 14, 2019)</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $300,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $100,000</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>3 + years of business ownership or management experience OR 4 + years of senior management experience OR 1+ year of business ownership & management experience and 2+ years of senior management experience within the last 10 years. </td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes (province publishes info on previous draws)</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Strongly Recommended</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Upon request of BC PNP</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Minimum 12-month work permit period before nomination; PR contingent on implementation of business proposal</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Community referral required to register; Must create at least one permanent, full-time job for a Canadian citizen or permanent resident</td>
                 </tr>
                 
             </table>
@@ -274,57 +274,57 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Manitoba Business Investor Stream — Entrepreneur Pathway</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $500,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $250,000 for businesses in the Manitoba Capital Region. OR CAD $150,000 if a business is outside of the Manitoba Capital Region AND must be made in an eligible business AND must create or maintain at least one job for a Canadian citizen or a Permanent Resident in Manitoba (excluding owners of the business and/or their close relatives).</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Business ownership and management experience or executive-level experience in 3 of the past 5 years. AND Business owners are given higher points in comparison to senior managers. AND Business owners must have at least 33 1/3% ownership to qualify for points.</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Business research visit must be conducted no more than one year prior to the submission of an EOI.</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not Required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Temporary work permit; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Score 60+ points on assessment grid CAD $100,000 refundable deposit is not a requirement anymore.</td>
                 </tr>
                 
             </table>
@@ -334,57 +334,57 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Manitoba Business Investor Stream — Farm Investor Pathway</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $500,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $300,000 tangible assets to establish a farming business in rural Manitoba AND investments in a farm business operated primarily for the purposes of deriving passive investment income or speculative purposes are not eligible.</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Minimum of three years of farm business management or farm ownership and operation experience supported by verifiable documents.</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Farm Business Research Visit required.</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $75,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Temporary work permit; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>CAD $100,000 refundable deposit is no longer required.</td>
                 </tr>
                 
             </table>
@@ -394,57 +394,58 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>New Brunswick Provincial Nominee Program (NBPNP) — Entrepreneurial Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $250,000</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>3 out of 5 years or more in owning a business OR 5 out of 5 years or more in a senior business management role</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes </td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required, must be of economic benefit to the province</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $100,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining provincial nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>22-55 years old <br>
+                     CLB 5 in English or French in reading, writing, listening and speaking</td>
                 </tr>
                 
             </table>
@@ -454,57 +455,59 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>New Brunswick Provincial Nominee Program (NBPNP) — Post-Graduate Entrepreneurial Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>N/A</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>The applicant must have 100% ownership of the equity of the eligible business</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>6 or more years in the last 10 years in NOC O, A or B OR 1-5 years in the last 10 years in the NOC O, A or B</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>May be requested (business must be of economic benefit to the province)</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Not specified</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not specified</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining provincial nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>22-40 years old <br>
+CLB 7 in English or French in reading, writing, listening and speaking <br>
+Have a valid Post-Graduation Work Permit</td>
                 </tr>
                 
             </table>
@@ -514,57 +517,60 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Nova Scotia Nominee Program (NSNP) — Entrepreneur Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $150,000</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>At least 3 years of business ownership experience including 33.3% ownership in the last 10 years OR
+                    <br> +5 years as senior manager in the last 10 years</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes (province publishes info on previous draws)</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required for business succession only</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Must operate business for at least 1 year on work permit following nomination; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Submit an Expression of Interest (EOI) <br>
+                        The business must meet additional criteria <br>
+                        English/French minimum CLB 5</td>
                 </tr>
                 
             </table>
@@ -574,57 +580,59 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Nova Scotia Nominee Program (NSNP) — International Graduate Entrepreneur Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>N/A</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>100% ownership of the equity of the eligible business</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>At least 1 continuous year of business ownership experience in Nova Scotia prior to EOI submission 
+                    <br> Completed a degree of at least 2 years' duration at a university/college in Nova Scotia</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes (province may publish info on draws after future draws are made; EOI must be submitted while on valid work permit)</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>None</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not Required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining provincial nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>The business must meet additional criteria
+                    <br> English/French minimum CLB 7</td>
                 </tr>
                 
             </table>
@@ -634,57 +642,59 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Northwest Territories Nominee Program (NTNP) — Entrepreneur Business Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>For businesses in Yellowknife: CAD $500,000 OR for businesses outside Yellowknife: CAD $250,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>In Yellowknife: CAD $300,000 & at least 33.3% ownership OR outside Yellowknife: CAD $150,000 & at least 33.3% ownership OR CAD $1,000,000 investment</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Relevant business experience required</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>No</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $75,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>2-year work permit; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>CLB 4 in English or French
+                        <br>Business must generate significant benefits for the Northwest Territories, including jobs for local residents.
+                    </td>
                 </tr>
                 
             </table>
@@ -694,57 +704,57 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th> Ontario Immigrant Nominee Program (OINP) </th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>None</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $5,000,000 OR CAD $10,000,000 if the proposed business is a land development or a leasehold company</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>The international corporation must have been established for at least 36 months at the time of application</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>No</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>encouraged</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not Required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Applicant & key staff first obtain work permits; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Create 5 new jobs for a Canadian citizen or permanent resident per key staff member seeking nomination</td>
                 </tr>
                 
             </table>
@@ -754,57 +764,59 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Prince Edward Island Provincial Nominee Program (PEI-PNP) - Work Permit Stream</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>N/A</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Management experience required</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Recommended</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $7,500 of $10,000 application fee is refunded if the application is declined or withdrawn.</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>Letter of support from the province to apply for a work permit; Obtain nomination once all of the terms and conditions of Performance Agreement are met.</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>CLB 4 in English or French; minimum education of secondary school equivalent
+                        <br>21-59 years old
+                    </td>
                 </tr>
                 
             </table>
@@ -814,57 +826,59 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Prince Edward Island Provincial Nominee Program (PEI-PNP) - Partial Ownership (terminated)</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $150,000 and own a percentage of equity in an existing business of at least 1/3 ownership OR $1,000,000 investment</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Management experience required</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required, must fall within an eligible sector of business set out by the provincial govt</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $200,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Submit an investment agreement
+                    <br> Minimum IELTS band score of 4.0 within the last 2 years
+                    <br> Score 50+ points on assessment grid</td>
                 </tr>
                 
             </table>
@@ -874,57 +888,58 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Prince Edward Island Provincial Nominee Program (PEI-PNP) — 100% Ownership (terminated)</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $600,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $150,000</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Management experience required</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Not specified</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $200,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining provincial nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>CLB 4 in English or French
+                    <br>21-59 years old</td>
                 </tr>
                 
             </table>
@@ -934,57 +949,58 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Saskatchewan Immigrant Nominee Program (SINP) - Entrepreneur Category</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $500,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $300,000 in Regina or Saskatoon and at least 33.3% ownership OR $200,000 in any other Saskatchewan community and at least 33.3% ownership OR CAD $1,000,000 investment or more</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>At least 3 years' experience as an entrepreneur or managing a business in the past 10 years</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required for business succession, joint ventures, and regional business opportunities</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Upon request by SINP</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>2-year work permit; PR contingent upon meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Sign a Performance Agreement
+                    <br> Create 2+ employment opportunities if establishing a business in Regina or Saskatoon</td>
                 </tr>
                 
             </table>
@@ -994,57 +1010,58 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Saskatchewan Immigrant Nominee Program (SINP) - Farm Owner/Operator Category</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $500,000</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>N/A</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Farming operation ownership experience using agricultural practices similar to those used in Saskatchewan-based farming</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>N/A</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Farm Establishment Plan (FEP) required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Upon request</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>CAD $75,000</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>PR after obtaining nomination certificate</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Submit a Farm Establishment Plan <br>
+                        Sign a Performance Agreement</td>
                 </tr>
                 
             </table>
@@ -1054,57 +1071,58 @@
 
                 <tr>
                     <th>Program</th>
-                    <th></th>
+                    <th>Yukon Business Nominee Program (YBNP)</th>
                 </tr>
                 
                 <tr>
                     <th>Minimum Net Worth</th>
-                    <td></td>
+                    <td>CAD $500,000 (including CAD $300,000 in liquid assets)</td>
                 </tr>
                 <tr>
                     <th>Minimum Investment</th>
-                    <td></td>
+                    <td>CAD $300,000 and at least 1/3 ownership with a Canadian citizen or permanent resident partner</td>
                 </tr>
                 
                 <tr>
                     <th>Experience</th>
-                    <td></td>
+                    <td>Minimum of 3 years entrepreneurial/business management experience & minimum of 5 years relevant work experience</td>
                 </tr>
                 <tr>
                     <th>EOI System</th>
-                    <td></td>
+                    <td>Yes</td>
                 </tr>
                 
                 <tr>
                     <th>Managerial Role</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 <tr>
                     <th>Business Plan</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Exploratory Visit</th>
-                    <td></td>
+                    <td>Recommended, applicants are awarded points for past visits</td>
                 </tr>
                 <tr>
                     <th>Interview</th>
-                    <td></td>
+                    <td>Required</td>
                 </tr>
                 
                 <tr>
                     <th>Refundable Deposit</th>
-                    <td></td>
+                    <td>Not required</td>
                 </tr>
                 <tr>
                     <th>PR/Work permit</th>
-                    <td></td>
+                    <td>2-year work permit; PR contingent on meeting program requirements</td>
                 </tr>
                 
                 <tr>
                     <th>Additional Requirements</th>
-                    <td></td>
+                    <td>Business must be in a strategic sector, as identified by the territory
+                    <br>Must score 65+ points on the assessment grid</td>
                 </tr>
                 
             </table>

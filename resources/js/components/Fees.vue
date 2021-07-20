@@ -69,13 +69,14 @@
 
 <script>
 import Head from './layouts/Head.vue'
+import Navi from './layouts/Navi.vue'
 import Footer from './layouts/Footer.vue'
 
 
 export default {
     name:'FamilySponsorship',
     components:{
-        Head, Footer, 
+        Head, Footer, Navi
     }
 }
 </script>

@@ -1881,7 +1881,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./layouts/Head.vue */ "./resources/js/components/layouts/Head.vue");
-/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Navi.vue */ "./resources/js/components/layouts/Navi.vue");
+/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -1924,13 +1925,20 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'About',
   components: {
     Head: _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
+    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
   }
 });
 
@@ -1951,6 +1959,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Navi.vue */ "./resources/js/components/layouts/Navi.vue");
 /* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 /* harmony import */ var _layouts_appointment_PopupOne_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./layouts/appointment/PopupOne.vue */ "./resources/js/components/layouts/appointment/PopupOne.vue");
+/* harmony import */ var _layouts_appointment_AppBar_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./layouts/appointment/AppBar.vue */ "./resources/js/components/layouts/appointment/AppBar.vue");
 //
 //
 //
@@ -2000,6 +2009,10 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+
 
 
 
@@ -2009,7 +2022,8 @@ __webpack_require__.r(__webpack_exports__);
   components: {
     Head: _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
     Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
-    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default,
+    AppBar: _layouts_appointment_AppBar_vue__WEBPACK_IMPORTED_MODULE_4__.default
   } // setup(){
   //     const popupTrigers = ref({
   //         buttonTriger: false,
@@ -2078,7 +2092,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./layouts/Head.vue */ "./resources/js/components/layouts/Head.vue");
-/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Navi.vue */ "./resources/js/components/layouts/Navi.vue");
+/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -2105,13 +2120,15 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'About',
   components: {
     Head: _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
+    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
   }
 });
 
@@ -2129,7 +2146,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./layouts/Head.vue */ "./resources/js/components/layouts/Head.vue");
-/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Navi.vue */ "./resources/js/components/layouts/Navi.vue");
+/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -2166,13 +2184,16 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Contact',
   components: {
     Head: _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
+    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
   }
 });
 
@@ -2233,7 +2254,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./layouts/Head.vue */ "./resources/js/components/layouts/Head.vue");
-/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./layouts/Navi.vue */ "./resources/js/components/layouts/Navi.vue");
+/* harmony import */ var _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./layouts/Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -2303,13 +2325,15 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+
 
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'FamilySponsorship',
   components: {
     Head: _layouts_Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _layouts_Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
+    Navi: _layouts_Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
   }
 });
 
@@ -3731,6 +3755,24 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Business'
 });
@@ -3963,6 +4005,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Footer',
   components: {}
@@ -3993,6 +4037,20 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Head'
 });
@@ -4010,6 +4068,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4093,8 +4170,37 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
-  name: 'Navi'
+  name: 'Navi',
+  mounted: function mounted() {
+    var toggleButton = document.getElementsByClassName('toggle-button')[0];
+    var navbarLinks = document.getElementsByClassName('nav-list')[0];
+    toggleButton.addEventListener('click', function () {
+      navbarLinks.classList.toggle('active');
+    });
+  }
 });
 
 /***/ }),
@@ -4423,6 +4529,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Service'
 });
@@ -4546,8 +4653,62 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   name: 'Work'
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js&":
+/*!*********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js& ***!
+  \*********************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  name: 'AppBar'
 });
 
 /***/ }),
@@ -4566,6 +4727,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Head.vue */ "./resources/js/components/layouts/Head.vue");
 /* harmony import */ var _Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Navi.vue */ "./resources/js/components/layouts/Navi.vue");
 /* harmony import */ var _Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _AppBar_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AppBar.vue */ "./resources/js/components/layouts/appointment/AppBar.vue");
 //
 //
 //
@@ -4596,24 +4758,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+
 
 
 
@@ -4622,7 +4767,8 @@ __webpack_require__.r(__webpack_exports__);
   components: {
     Head: _Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
     Footer: _Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
-    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default,
+    AppBar: _AppBar_vue__WEBPACK_IMPORTED_MODULE_3__.default
   }
 });
 
@@ -4641,7 +4787,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Head.vue */ "./resources/js/components/layouts/Head.vue");
 /* harmony import */ var _Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Navi.vue */ "./resources/js/components/layouts/Navi.vue");
-/* harmony import */ var _Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _AppBar_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AppBar.vue */ "./resources/js/components/layouts/appointment/AppBar.vue");
+/* harmony import */ var _Footer_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -4673,22 +4820,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+
 
 
 
@@ -4696,8 +4828,9 @@ __webpack_require__.r(__webpack_exports__);
   name: 'Appointment40Min',
   components: {
     Head: _Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
-    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _Footer_vue__WEBPACK_IMPORTED_MODULE_3__.default,
+    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default,
+    AppBar: _AppBar_vue__WEBPACK_IMPORTED_MODULE_2__.default
   }
 });
 
@@ -4716,7 +4849,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var _Head_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../Head.vue */ "./resources/js/components/layouts/Head.vue");
 /* harmony import */ var _Navi_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Navi.vue */ "./resources/js/components/layouts/Navi.vue");
-/* harmony import */ var _Footer_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Footer.vue */ "./resources/js/components/layouts/Footer.vue");
+/* harmony import */ var _AppBar_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./AppBar.vue */ "./resources/js/components/layouts/appointment/AppBar.vue");
+/* harmony import */ var _Footer_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Footer.vue */ "./resources/js/components/layouts/Footer.vue");
 //
 //
 //
@@ -4748,22 +4882,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+
 
 
 
@@ -4771,8 +4890,9 @@ __webpack_require__.r(__webpack_exports__);
   name: 'Appointment60Min',
   components: {
     Head: _Head_vue__WEBPACK_IMPORTED_MODULE_0__.default,
-    Footer: _Footer_vue__WEBPACK_IMPORTED_MODULE_2__.default,
-    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default
+    Footer: _Footer_vue__WEBPACK_IMPORTED_MODULE_3__.default,
+    Navi: _Navi_vue__WEBPACK_IMPORTED_MODULE_1__.default,
+    AppBar: _AppBar_vue__WEBPACK_IMPORTED_MODULE_2__.default
   }
 });
 
@@ -5964,7 +6084,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.intro{\r\n    overflow: hidden;\n}\n.intro-size{\r\n    min-width: -moz-fit-content;\r\n    min-width: fit-content;\r\n    max-height: 50%;\n}\nhtml, body {\r\n    margin: 0px;\r\n    padding: 0px;\n}\n.carousel {\r\n    position: relative;\r\n    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);\r\n    margin-top: 0.5px;\n}\n.carousel-inner {\r\n    position: relative;\r\n    overflow: hidden;\r\n    width: 100%;\n}\n.carousel-open:checked + .carousel-item {\r\n    position: static;\r\n    opacity: 100;\n}\n.carousel-item {\r\n    position: absolute;\r\n    opacity: 0;\r\n    transition: opacity 0.6s ease-out;\n}\n.carousel-item img {\r\n    display: block;\r\n    height: auto;\r\n    max-width: 100%;\n}\n.carousel-control {\r\n    background: rgba(0, 0, 0, 0.28);\r\n    border-radius: 50%;\r\n    color: #fff;\r\n    cursor: pointer;\r\n    display: none;\r\n    font-size: 40px;\r\n    height: 40px;\r\n    line-height: 35px;\r\n    position: absolute;\r\n    top: 50%;\r\n    -webkit-transform: translate(0, -50%);\r\n    cursor: pointer;\r\n    transform: translate(0, -50%);\r\n    text-align: center;\r\n    width: 40px;\r\n    z-index: 10;\n}\n.carousel-control.prev {\r\n    left: 2%;\n}\n.carousel-control.next {\r\n    right: 2%;\n}\n.carousel-control:hover {\r\n    background: rgba(0, 0, 0, 0.8);\r\n    color: #aaaaaa;\n}\n#carousel-1:checked ~ .control-1,\r\n#carousel-2:checked ~ .control-2,\r\n#carousel-3:checked ~ .control-3 {\r\n    display: block;\n}\n.carousel-indicators {\r\n    list-style: none;\r\n    margin: 0;\r\n    padding: 0;\r\n    position: absolute;\r\n    bottom: 2%;\r\n    left: 0;\r\n    right: 0;\r\n    text-align: center;\r\n    z-index: 10;\n}\n.carousel-indicators li {\r\n    display: inline-block;\r\n    margin: 0 5px;\n}\n.carousel-bullet {\r\n    color: #fff;\r\n    cursor: pointer;\r\n    display: block;\r\n    font-size: 35px;\n}\n.carousel-bullet:hover {\r\n    color: #aaaaaa;\n}\n#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,\r\n#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,\r\n#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {\r\n    color: #428bca;\n}\n#title {\r\n    width: 100%;\r\n    position: absolute;\r\n    padding: 0px;\r\n    margin: 0px auto;\r\n    text-align: center;\r\n    font-size: 27px;\r\n    color: rgba(255, 255, 255, 1);\r\n    font-family: 'Open Sans', sans-serif;\r\n    z-index: 9999;\r\n    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);\n}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.intro{\r\n    overflow: hidden;\n}\n.intro-size{\r\n    min-width: -moz-fit-content;\r\n    min-width: fit-content;\r\n    max-height: 50%;\n}\nhtml, body {\r\n    margin: 0px;\r\n    padding: 0px;\n}\n.carousel {\r\n    position: relative;\r\n    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);\r\n    margin-top: 0.5px;\n}\n.carousel-inner {\r\n    position: relative;\r\n    overflow: hidden;\r\n    width: 100%;\n}\n.carousel-open:checked + .carousel-item {\r\n    position: static;\r\n    opacity: 100;\n}\n.carousel-item {\r\n    position: absolute;\r\n    opacity: 0;\r\n    transition: opacity 0.6s ease-out;\n}\n.carousel-item img {\r\n    display: block;\r\n    height: auto;\r\n    max-width: 100%;\n}\n.carousel-control {\r\n    background: rgba(0, 0, 0, 0.28);\r\n    border-radius: 50%;\r\n    color: #fff;\r\n    cursor: pointer;\r\n    display: none;\r\n    font-size: 40px;\r\n    height: 40px;\r\n    line-height: 35px;\r\n    position: absolute;\r\n    top: 50%;\r\n    -webkit-transform: translate(0, -50%);\r\n    cursor: pointer;\r\n    transform: translate(0, -50%);\r\n    text-align: center;\r\n    width: 40px;\r\n    z-index: 10;\n}\n.carousel-control.prev {\r\n    left: 2%;\n}\n.carousel-control.next {\r\n    right: 2%;\n}\n.carousel-control:hover {\r\n    background: rgba(0, 0, 0, 0.8);\r\n    color: #aaaaaa;\n}\n#carousel-1:checked ~ .control-1,\r\n#carousel-2:checked ~ .control-2,\r\n#carousel-3:checked ~ .control-3,\r\n#carousel-4:checked ~ .control-4 {\r\n    display: block;\n}\n.carousel-indicators {\r\n    list-style: none;\r\n    margin: 0;\r\n    padding: 0;\r\n    position: absolute;\r\n    bottom: 2%;\r\n    left: 0;\r\n    right: 0;\r\n    text-align: center;\r\n    z-index: 10;\n}\n.carousel-indicators li {\r\n    display: inline-block;\r\n    margin: 0 5px;\n}\n.carousel-bullet {\r\n    color: #fff;\r\n    cursor: pointer;\r\n    display: block;\r\n    font-size: 35px;\n}\n.carousel-bullet:hover {\r\n    color: #aaaaaa;\n}\n#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,\r\n#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,\r\n#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet,\r\n#carousel-4:checked ~ .control-4 ~ .carousel-indicators li:nth-child(4) .carousel-bullet {\r\n    color: #428bca;\n}\n#title {\r\n    width: 100%;\r\n    position: absolute;\r\n    padding: 0px;\r\n    margin: 0px auto;\r\n    text-align: center;\r\n    font-size: 27px;\r\n    color: rgba(255, 255, 255, 1);\r\n    font-family: 'Open Sans', sans-serif;\r\n    z-index: 9999;\r\n    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);\n}\r\n\r\n\r\n\r\n\r\n\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -24896,6 +25016,45 @@ component.options.__file = "resources/js/components/layouts/Work.vue"
 
 /***/ }),
 
+/***/ "./resources/js/components/layouts/appointment/AppBar.vue":
+/*!****************************************************************!*\
+  !*** ./resources/js/components/layouts/appointment/AppBar.vue ***!
+  \****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AppBar.vue?vue&type=template&id=43f8dada& */ "./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada&");
+/* harmony import */ var _AppBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AppBar.vue?vue&type=script&lang=js& */ "./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+;
+var component = (0,_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__.default)(
+  _AppBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__.default,
+  _AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__.render,
+  _AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns,
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/layouts/appointment/AppBar.vue"
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (component.exports);
+
+/***/ }),
+
 /***/ "./resources/js/components/layouts/appointment/Appointment20Min.vue":
 /*!**************************************************************************!*\
   !*** ./resources/js/components/layouts/appointment/Appointment20Min.vue ***!
@@ -25766,6 +25925,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** ./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./AppBar.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5[0].rules[0].use[0]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=script&lang=js&");
+ /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_babel_loader_lib_index_js_clonedRuleSet_5_0_rules_0_use_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppBar_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__.default); 
+
+/***/ }),
+
 /***/ "./resources/js/components/layouts/appointment/Appointment20Min.vue?vue&type=script&lang=js&":
 /*!***************************************************************************************************!*\
   !*** ./resources/js/components/layouts/appointment/Appointment20Min.vue?vue&type=script&lang=js& ***!
@@ -26435,6 +26610,23 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada&":
+/*!***********************************************************************************************!*\
+  !*** ./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada& ***!
+  \***********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__.render),
+/* harmony export */   "staticRenderFns": () => (/* reexport safe */ _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__.staticRenderFns)
+/* harmony export */ });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_AppBar_vue_vue_type_template_id_43f8dada___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../../node_modules/vue-loader/lib/index.js??vue-loader-options!./AppBar.vue?vue&type=template&id=43f8dada& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada&");
+
+
+/***/ }),
+
 /***/ "./resources/js/components/layouts/appointment/Appointment20Min.vue?vue&type=template&id=1aedae96&":
 /*!*********************************************************************************************************!*\
   !*** ./resources/js/components/layouts/appointment/Appointment20Min.vue?vue&type=template&id=1aedae96& ***!
@@ -26691,6 +26883,8 @@ var render = function() {
     [
       _c("Head"),
       _vm._v(" "),
+      _c("Navi"),
+      _vm._v(" "),
       _vm._m(0),
       _vm._v(" "),
       _vm._m(1),
@@ -26708,7 +26902,7 @@ var staticRenderFns = [
     return _c("div", { staticClass: "text-cent" }, [
       _c("img", {
         staticClass: "myPhoto",
-        attrs: { src: "/images/my-photo.jpg", alt: "My Photo" }
+        attrs: { src: "/images/myPhoto.jpg", alt: "My Photo" }
       })
     ])
   },
@@ -26806,7 +27000,30 @@ var render = function() {
       _vm._v(" "),
       _c("Navi"),
       _vm._v(" "),
-      _vm._m(0),
+      _c("div", { staticClass: "study", attrs: { id: "appointment" } }, [
+        _c(
+          "div",
+          { attrs: { "stu-head": "" } },
+          [
+            _vm._m(0),
+            _vm._v(" "),
+            _vm._m(1),
+            _vm._v(" "),
+            _vm._m(2),
+            _vm._v(" "),
+            _vm._m(3),
+            _vm._v(" "),
+            _c("h3", [
+              _vm._v(
+                "Book an Appointment by to discuss in details and find the solution for you."
+              )
+            ]),
+            _vm._v(" "),
+            _c("AppBar")
+          ],
+          1
+        )
+      ]),
       _vm._v(" "),
       _c("Footer")
     ],
@@ -26818,76 +27035,37 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "study", attrs: { id: "appointment" } }, [
-      _c("div", { attrs: { "stu-head": "" } }, [
-        _c("h2", { staticClass: "text-head" }, [
-          _c("b", [_vm._v(" BOOK AN APPOINTMENT ")])
-        ]),
-        _vm._v(" "),
-        _c("h3", [
-          _c("b", [
-            _vm._v("Need expert advice on complex immigration issues? ")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("h3", [
-          _c("b", [
-            _vm._v("Confused if immigration is the right choice for you?  ")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("h3", [
-          _c("b", [
-            _vm._v(
-              "Need advice on what is the best way to make your dream of migration to Canada come true?  "
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("h3", [
-          _vm._v(
-            "Book an Appointment by to discuss in details and find the solution for you."
-          )
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "a-pic" }, [
-          _c("img", {
-            staticClass: "app-pic",
-            attrs: { src: "/images/Westford-2.png", alt: "" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "app-book" }, [
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment20" } },
-            [
-              _c("div", {}, [
-                _c("b", [_vm._v("20 Min – Virtual Consultation – CAD 66")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment40" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("40 Min – Virtual Consultation – CAD 125")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment60" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("60 Min – Virtual Consultation – CAD 180 ")])
-              ])
-            ]
-          )
-        ])
+    return _c("h2", { staticClass: "text-head" }, [
+      _c("b", [_vm._v(" BOOK AN APPOINTMENT ")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h3", [
+      _c("b", [_vm._v("Need expert advice on complex immigration issues? ")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h3", [
+      _c("b", [
+        _vm._v("Confused if immigration is the right choice for you?  ")
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("h3", [
+      _c("b", [
+        _vm._v(
+          "Need advice on what is the best way to make your dream of migration to Canada come true?  "
+        )
       ])
     ])
   }
@@ -26953,7 +27131,15 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    [_c("Head"), _vm._v(" "), _vm._m(0), _vm._v(" "), _c("Footer")],
+    [
+      _c("Head"),
+      _vm._v(" "),
+      _c("Navi"),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _c("Footer")
+    ],
     1
   )
 }
@@ -27005,7 +27191,15 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    [_c("Head"), _vm._v(" "), _vm._m(0), _vm._v(" "), _c("Footer")],
+    [
+      _c("Head"),
+      _vm._v(" "),
+      _c("Navi"),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _c("Footer")
+    ],
     1
   )
 }
@@ -27845,60 +28039,94 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [_vm._v("BC PNP Entrepreneur Immigration")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $200,000 OR CAD $400,000 if proposing a Key Staff Member"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "3 + years of business ownership or management experience OR 4 + years of senior management experience OR 1+ year of business ownership & management experience and 2+ years of senior management experience within the last 10 years."
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v("Yes (province publishes info on previous draws)")
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Recommended")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Upon request of BC PNP")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "2-year work period before Letter of Acceptance to apply for Permanent Residence (PR); PR contingent on implementation of the business proposal"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Create at least one permanent, full-time job for a Canadian citizen or permanent resident with the proposed business"
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -27909,60 +28137,94 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "BC PNP Entrepreneur Immigration — Regional Pilot (launched on March 14, 2019)"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $300,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $100,000")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "3 + years of business ownership or management experience OR 4 + years of senior management experience OR 1+ year of business ownership & management experience and 2+ years of senior management experience within the last 10 years. "
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v("Yes (province publishes info on previous draws)")
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Strongly Recommended")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Upon request of BC PNP")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Minimum 12-month work permit period before nomination; PR contingent on implementation of business proposal"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Community referral required to register; Must create at least one permanent, full-time job for a Canadian citizen or permanent resident"
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -27973,60 +28235,98 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v("Manitoba Business Investor Stream — Entrepreneur Pathway")
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $500,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $250,000 for businesses in the Manitoba Capital Region. OR CAD $150,000 if a business is outside of the Manitoba Capital Region AND must be made in an eligible business AND must create or maintain at least one job for a Canadian citizen or a Permanent Resident in Manitoba (excluding owners of the business and/or their close relatives)."
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "Business ownership and management experience or executive-level experience in 3 of the past 5 years. AND Business owners are given higher points in comparison to senior managers. AND Business owners must have at least 33 1/3% ownership to qualify for points."
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Business research visit must be conducted no more than one year prior to the submission of an EOI."
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Temporary work permit; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Score 60+ points on assessment grid CAD $100,000 refundable deposit is not a requirement anymore."
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28037,60 +28337,94 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Manitoba Business Investor Stream — Farm Investor Pathway"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $500,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $300,000 tangible assets to establish a farming business in rural Manitoba AND investments in a farm business operated primarily for the purposes of deriving passive investment income or speculative purposes are not eligible."
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "Minimum of three years of farm business management or farm ownership and operation experience supported by verifiable documents."
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Farm Business Research Visit required.")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $75,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Temporary work permit; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("CAD $100,000 refundable deposit is no longer required.")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28101,60 +28435,94 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "New Brunswick Provincial Nominee Program (NBPNP) — Entrepreneurial Stream"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $250,000")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "3 out of 5 years or more in owning a business OR 5 out of 5 years or more in a senior business management role"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes ")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("Required, must be of economic benefit to the province")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $100,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("PR after obtaining provincial nomination certificate")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("22-55 years old "),
+              _c("br"),
+              _vm._v(
+                "\n                     CLB 5 in English or French in reading, writing, listening and speaking"
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28165,60 +28533,102 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "New Brunswick Provincial Nominee Program (NBPNP) — Post-Graduate Entrepreneurial Stream"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("N/A")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "The applicant must have 100% ownership of the equity of the eligible business"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "6 or more years in the last 10 years in NOC O, A or B OR 1-5 years in the last 10 years in the NOC O, A or B"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "May be requested (business must be of economic benefit to the province)"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not specified")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not specified")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("PR after obtaining provincial nomination certificate")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("22-40 years old "),
+              _c("br"),
+              _vm._v(
+                "\nCLB 7 in English or French in reading, writing, listening and speaking "
+              ),
+              _c("br"),
+              _vm._v("\nHave a valid Post-Graduation Work Permit")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28227,60 +28637,98 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v("Nova Scotia Nominee Program (NSNP) — Entrepreneur Stream")
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $150,000")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "At least 3 years of business ownership experience including 33.3% ownership in the last 10 years OR\n                    "
+              ),
+              _c("br"),
+              _vm._v(" +5 years as senior manager in the last 10 years")
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v("Yes (province publishes info on previous draws)")
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required for business succession only")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Must operate business for at least 1 year on work permit following nomination; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("Submit an Expression of Interest (EOI) "),
+              _c("br"),
+              _vm._v(
+                "\n                        The business must meet additional criteria "
+              ),
+              _c("br"),
+              _vm._v("\n                        English/French minimum CLB 5")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28291,60 +28739,102 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Nova Scotia Nominee Program (NSNP) — International Graduate Entrepreneur Stream"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("N/A")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("100% ownership of the equity of the eligible business")
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "At least 1 continuous year of business ownership experience in Nova Scotia prior to EOI submission \n                    "
+              ),
+              _c("br"),
+              _vm._v(
+                " Completed a degree of at least 2 years' duration at a university/college in Nova Scotia"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "Yes (province may publish info on draws after future draws are made; EOI must be submitted while on valid work permit)"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("None")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("PR after obtaining provincial nomination certificate")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "The business must meet additional criteria\n                    "
+              ),
+              _c("br"),
+              _vm._v(" English/French minimum CLB 7")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28355,60 +28845,98 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Northwest Territories Nominee Program (NTNP) — Entrepreneur Business Stream"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "For businesses in Yellowknife: CAD $500,000 OR for businesses outside Yellowknife: CAD $250,000"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "In Yellowknife: CAD $300,000 & at least 33.3% ownership OR outside Yellowknife: CAD $150,000 & at least 33.3% ownership OR CAD $1,000,000 investment"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Relevant business experience required")])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("No")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $75,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "2-year work permit; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("CLB 4 in English or French\n                        "),
+              _c("br"),
+              _vm._v(
+                "Business must generate significant benefits for the Northwest Territories, including jobs for local residents.\n                    "
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28417,60 +28945,92 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [_vm._v(" Ontario Immigrant Nominee Program (OINP) ")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("None")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $5,000,000 OR CAD $10,000,000 if the proposed business is a land development or a leasehold company"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "The international corporation must have been established for at least 36 months at the time of application"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("No")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("encouraged")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Applicant & key staff first obtain work permits; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Create 5 new jobs for a Canadian citizen or permanent resident per key staff member seeking nomination"
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28481,60 +29041,94 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Prince Edward Island Provincial Nominee Program (PEI-PNP) - Work Permit Stream"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("N/A")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Management experience required")])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Recommended")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $7,500 of $10,000 application fee is refunded if the application is declined or withdrawn."
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Letter of support from the province to apply for a work permit; Obtain nomination once all of the terms and conditions of Performance Agreement are met."
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CLB 4 in English or French; minimum education of secondary school equivalent\n                        "
+              ),
+              _c("br"),
+              _vm._v("21-59 years old\n                    ")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28545,60 +29139,96 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Prince Edward Island Provincial Nominee Program (PEI-PNP) - Partial Ownership (terminated)"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $150,000 and own a percentage of equity in an existing business of at least 1/3 ownership OR $1,000,000 investment"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Management experience required")])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Required, must fall within an eligible sector of business set out by the provincial govt"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $200,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("PR after obtaining nomination certificate")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("Submit an investment agreement\n                    "),
+              _c("br"),
+              _vm._v(
+                " Minimum IELTS band score of 4.0 within the last 2 years\n                    "
+              ),
+              _c("br"),
+              _vm._v(" Score 50+ points on assessment grid")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28609,60 +29239,86 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Prince Edward Island Provincial Nominee Program (PEI-PNP) — 100% Ownership (terminated)"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $600,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $150,000")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Management experience required")])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not specified")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $200,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("PR after obtaining provincial nomination certificate")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("CLB 4 in English or French\n                    "),
+              _c("br"),
+              _vm._v("21-59 years old")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28673,60 +29329,102 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Saskatchewan Immigrant Nominee Program (SINP) - Entrepreneur Category"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $500,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $300,000 in Regina or Saskatoon and at least 33.3% ownership OR $200,000 in any other Saskatchewan community and at least 33.3% ownership OR CAD $1,000,000 investment or more"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "At least 3 years' experience as an entrepreneur or managing a business in the past 10 years"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Required for business succession, joint ventures, and regional business opportunities"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Upon request by SINP")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "2-year work permit; PR contingent upon meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("Sign a Performance Agreement\n                    "),
+              _c("br"),
+              _vm._v(
+                " Create 2+ employment opportunities if establishing a business in Regina or Saskatoon"
+              )
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -28737,120 +29435,188 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [
+              _vm._v(
+                "Saskatchewan Immigrant Nominee Program (SINP) - Farm Owner/Operator Category"
+              )
+            ])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $500,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("N/A")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "Farming operation ownership experience using agricultural practices similar to those used in Saskatchewan-based farming"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("N/A")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Farm Establishment Plan (FEP) required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Upon request")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("CAD $75,000")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("PR after obtaining nomination certificate")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("Submit a Farm Establishment Plan "),
+              _c("br"),
+              _vm._v("\n                        Sign a Performance Agreement")
+            ])
           ])
         ]),
         _vm._v(" "),
         _c("h3", [_vm._v("Yukon Business Nominee Program (YBNP)")]),
         _vm._v(" "),
         _c("table", { staticClass: "bus-tab" }, [
-          _c("tr", [_c("th", [_vm._v("Program")]), _vm._v(" "), _c("th")]),
+          _c("tr", [
+            _c("th", [_vm._v("Program")]),
+            _vm._v(" "),
+            _c("th", [_vm._v("Yukon Business Nominee Program (YBNP)")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Net Worth")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v("CAD $500,000 (including CAD $300,000 in liquid assets)")
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Minimum Investment")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "CAD $300,000 and at least 1/3 ownership with a Canadian citizen or permanent resident partner"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Experience")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Experience")]),
+            _vm._v(" "),
+            _c("td", [
+              _vm._v(
+                "Minimum of 3 years entrepreneurial/business management experience & minimum of 5 years relevant work experience"
+              )
+            ])
+          ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("EOI System")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("EOI System")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Yes")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Managerial Role")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Business Plan")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Exploratory Visit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Recommended, applicants are awarded points for past visits"
+              )
+            ])
           ]),
           _vm._v(" "),
-          _c("tr", [_c("th", [_vm._v("Interview")]), _vm._v(" "), _c("td")]),
+          _c("tr", [
+            _c("th", [_vm._v("Interview")]),
+            _vm._v(" "),
+            _c("td", [_vm._v("Required")])
+          ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Refundable Deposit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [_vm._v("Not required")])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("PR/Work permit")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "2-year work permit; PR contingent on meeting program requirements"
+              )
+            ])
           ]),
           _vm._v(" "),
           _c("tr", [
             _c("th", [_vm._v("Additional Requirements")]),
             _vm._v(" "),
-            _c("td")
+            _c("td", [
+              _vm._v(
+                "Business must be in a strategic sector, as identified by the territory\n                    "
+              ),
+              _c("br"),
+              _vm._v("Must score 65+ points on the assessment grid")
+            ])
           ])
         ]),
         _vm._v(" "),
@@ -29399,11 +30165,9 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("a", { staticClass: "stu-canvisa-link", attrs: { href: "" } }, [
-          _c("h3", [
-            _vm._v(
-              "Find out if you are eligible to sponsor your parents and grandparents"
-            )
-          ])
+          _vm._v(
+            "Find out if you are eligible to sponsor your parents and grandparents"
+          )
         ]),
         _vm._v(" "),
         _c("a", { staticClass: "text-link", attrs: { href: "" } }, [
@@ -29449,11 +30213,7 @@ var staticRenderFns = [
         _c(
           "a",
           { staticClass: "stu-canvisa-link", attrs: { href: "mailto:" } },
-          [
-            _c("h3", [
-              _vm._v(" Contact us if you want to apply for a Super Visa! ")
-            ])
-          ]
+          [_vm._v("Contact us if you want to apply for a Super Visa!  ")]
         )
       ])
     ])
@@ -29497,39 +30257,79 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "foot-box-des" }, [
-              _vm._v(
-                "\n                    I want to IMMIGRATE \n                    "
-              ),
+              _c("a", { attrs: { href: "/immigrate" } }, [
+                _vm._v(" I want to IMMIGRATE  ")
+              ]),
+              _vm._v(" "),
               _c("br"),
-              _vm._v(" I want a STUDY PERMIT\n                    "),
+              _c("a", { attrs: { href: "/study" } }, [
+                _vm._v(" I want a STUDY PERMIT ")
+              ]),
+              _vm._v(" "),
               _c("br"),
-              _vm._v(" I want a BUSINESS MIGRATION\n                    "),
+              _c("a", { attrs: { href: "/business" } }, [
+                _vm._v(" I want BUSINESS MIGRATION ")
+              ]),
+              _vm._v(" "),
               _c("br"),
-              _vm._v(" I want a FAMILY SPONSORSHIP\n                    "),
+              _c("a", { attrs: { href: "/familys" } }, [
+                _vm._v(" I want a FAMILY SPONSORSHIP ")
+              ]),
+              _vm._v(" "),
               _c("br"),
-              _vm._v(" I want a WORD PERMIT\n                    "),
+              _c("a", { attrs: { href: "/work" } }, [
+                _vm._v(" I want a WORK PERMIT ")
+              ]),
+              _vm._v(" "),
               _c("br"),
-              _vm._v(
-                " I want to know about Refusal, Appeals and Inadmissibility\n                "
-              )
+              _c("a", { attrs: { href: "/refusal" } }, [
+                _vm._v(
+                  " I want to know about Refusal, Appeals and Inadmissibility "
+                )
+              ])
             ])
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "foot-box" }, [
             _c("div", { staticClass: "foot-box-title" }, [
-              _c("h3", [_vm._v("Canada Immigration Netword")])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "foot-box-des" }, [
-              _vm._v("\n                    ascd.com \n                    "),
-              _c("br"),
-              _vm._v(" asdf.com\n                    "),
-              _c("br"),
-              _vm._v(" Community Forum\n                ")
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "foot-box-title" }, [
-              _c("h3", [_vm._v("Connect with us")])
+              _c(
+                "a",
+                {
+                  staticStyle: { color: "white" },
+                  attrs: { href: "/contact" }
+                },
+                [_c("h3", [_vm._v("Connect with us")])]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                { staticStyle: { "font-size": "20px" }, attrs: { href: "" } },
+                [_c("i", { staticClass: "fab fa-facebook" })]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                { staticStyle: { "font-size": "20px" }, attrs: { href: "" } },
+                [_c("i", { staticClass: "fab fa-twitter" })]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                { staticStyle: { "font-size": "20px" }, attrs: { href: "" } },
+                [_c("i", { staticClass: "fab fa-instagram" })]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  staticStyle: { "font-size": "20px" },
+                  attrs: {
+                    href:
+                      "https://www.linkedin.com/in/md-ashiqur-rahman-6723b886/"
+                  }
+                },
+                [_c("i", { staticClass: "fab fa-linkedin" })]
+              )
             ])
           ]),
           _vm._v(" "),
@@ -29539,7 +30339,17 @@ var staticRenderFns = [
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "foot-box-des" }, [
-              _vm._v("\n                    +88 0123456789\n                ")
+              _vm._v(
+                "\n                    +8801633661199\n                    "
+              ),
+              _c("br"),
+              _c("br"),
+              _vm._v(" "),
+              _c("b", [_vm._v("WhatsApp: ")]),
+              _vm._v(" "),
+              _c("br"),
+              _c("br"),
+              _vm._v("+14373889215\n                ")
             ])
           ])
         ])
@@ -29582,7 +30392,34 @@ var staticRenderFns = [
           _c("br"),
           _vm._v("    Phone: +8801633661199\n            "),
           _c("br"),
-          _vm._v("    Whatsapp/Telegram: +14373889215\n        ")
+          _vm._v(
+            "    Whatsapp/Telegram: +14373889215\n            \n            "
+          ),
+          _c("div", { staticClass: "head-navi" }, [
+            _c("ul", { staticClass: "nav-menu" }, [
+              _c("div", { staticClass: "head-nav" }, [
+                _c("li", { staticClass: "h-nav" }, [
+                  _c("a", { attrs: { href: "/appointment" } }, [
+                    _vm._v("BOOK AN APPOINTMENT")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "h-nav" }, [
+                  _c("a", { attrs: { href: "/about" } }, [_vm._v("ABOUT US")])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "h-nav" }, [
+                  _c("a", { attrs: { href: "/career" } }, [_vm._v("CAREER")])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "h-nav" }, [
+                  _c("a", { attrs: { href: "/contact" } }, [
+                    _vm._v("CONTACT US")
+                  ])
+                ])
+              ])
+            ])
+          ])
         ]),
         _vm._v(" "),
         _c("div", [
@@ -29643,7 +30480,46 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "carousel-item" }, [
-              _c("img", { attrs: { src: "/images/can-flag.jpg" } })
+              _c("div", { staticClass: "assesment as" }, [
+                _c("a", { attrs: { href: "/immigrate#Express-Entry" } }, [
+                  _c("h2", [
+                    _c("i", { staticClass: "text-head" }, [
+                      _vm._v(" Express Entry ")
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "Find out what it takes to be eligible for Canadian immigration and begin your clear path to Canada."
+                  )
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticStyle: { padding: "2px" },
+                    attrs: {
+                      href:
+                        "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+                    }
+                  },
+                  [_vm._v("Get your free assesment")]
+                ),
+                _vm._v(" "),
+                _c("br"),
+                _vm._v(" "),
+                _c("br"),
+                _vm._v(
+                  "\n                        Express Entry is Canada's main pathway for skilled workers. Canada aims to welcome 110,000 new immigrants under Express Entry each year. "
+                ),
+                _c("br")
+              ]),
+              _vm._v(" "),
+              _c("img", {
+                staticClass: "ass",
+                attrs: { src: "/images/landingPage1.jpg" }
+              })
             ]),
             _vm._v(" "),
             _c("input", {
@@ -29658,7 +30534,18 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "carousel-item" }, [
-              _c("img", { attrs: { src: "/images/can-flag2.jpg" } })
+              _c("div", { staticClass: "assesment" }, [
+                _c("h2", [
+                  _vm._v(
+                    " Don’t be a victim of frauds! Many firms only mention names of lawyers or RCICs, but they don’t retain their service! If you are not signing a retainer agreement directly with an RCIC, you are being cheated!!"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("img", {
+                staticClass: "ass",
+                attrs: { src: "/images/landingPage2.jpg" }
+              })
             ]),
             _vm._v(" "),
             _c("input", {
@@ -29673,14 +30560,53 @@ var staticRenderFns = [
             }),
             _vm._v(" "),
             _c("div", { staticClass: "carousel-item" }, [
-              _c("img", { attrs: { src: "/images/Westford-head.jpg" } })
+              _c(
+                "h2",
+                { staticClass: "assesment", staticStyle: { color: "#ffffff" } },
+                [
+                  _c("i", [
+                    _vm._v(
+                      " What are your ACTUAL ways of success? Which programs are best fit for you? It costs little to consult but can save you big time in long run! "
+                    )
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("img", { attrs: { src: "/images/landingPage3.jpg" } })
+            ]),
+            _vm._v(" "),
+            _c("input", {
+              staticClass: "carousel-open",
+              attrs: {
+                type: "radio",
+                id: "carousel-4",
+                name: "carousel",
+                "aria-hidden": "true",
+                hidden: ""
+              }
+            }),
+            _vm._v(" "),
+            _c("div", { staticClass: "carousel-item" }, [
+              _c(
+                "h2",
+                { staticClass: "assesment", staticStyle: { color: "#000000" } },
+                [
+                  _c("i", [
+                    _vm._v(
+                      " Claim a referral bonus of $150 for every friends that retain our service! "
+                    )
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("img", { attrs: { src: "/images/landingPage4.png" } })
             ]),
             _vm._v(" "),
             _c(
               "label",
               {
                 staticClass: "carousel-control prev control-1",
-                attrs: { for: "carousel-3" }
+                attrs: { for: "carousel-4" }
               },
               [_vm._v("‹")]
             ),
@@ -29725,6 +30651,24 @@ var staticRenderFns = [
               "label",
               {
                 staticClass: "carousel-control next control-3",
+                attrs: { for: "carousel-4" }
+              },
+              [_vm._v("›")]
+            ),
+            _vm._v(" "),
+            _c(
+              "label",
+              {
+                staticClass: "carousel-control next control-4",
+                attrs: { for: "carousel-3" }
+              },
+              [_vm._v("‹")]
+            ),
+            _vm._v(" "),
+            _c(
+              "label",
+              {
+                staticClass: "carousel-control next control-4",
                 attrs: { for: "carousel-1" }
               },
               [_vm._v("›")]
@@ -29759,6 +30703,17 @@ var staticRenderFns = [
                   {
                     staticClass: "carousel-bullet",
                     attrs: { for: "carousel-3" }
+                  },
+                  [_vm._v("•")]
+                )
+              ]),
+              _vm._v(" "),
+              _c("li", [
+                _c(
+                  "label",
+                  {
+                    staticClass: "carousel-bullet",
+                    attrs: { for: "carousel-4" }
                   },
                   [_vm._v("•")]
                 )
@@ -29804,34 +30759,111 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "navi-b" }, [
-      _c("ul", { staticClass: "nav-ul" }, [
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/study" } }, [_vm._v("Study Permit")])
-        ]),
+    return _c("nav", { staticClass: "navi-b ", attrs: { id: "navbar" } }, [
+      _c("a", { staticClass: "toggle-button", attrs: { href: "#" } }, [
+        _c("span", { staticClass: "bar" }),
         _vm._v(" "),
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/work" } }, [_vm._v("Work Permit")])
-        ]),
+        _c("span", { staticClass: "bar" }),
         _vm._v(" "),
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/familys" } }, [
-            _vm._v("Family Sponsorship")
+        _c("span", { staticClass: "bar" })
+      ]),
+      _vm._v(" "),
+      _c("ul", { staticClass: "nav-list" }, [
+        _c("div", { staticClass: "nav-menu" }, [
+          _c("li", { staticClass: "nav-li dropdown" }, [
+            _c("a", { attrs: { href: "/immigrate" } }, [_vm._v("Immigrate")]),
+            _vm._v(" "),
+            _c("ul", { staticClass: "dropdown-content" }, [
+              _c("a", { attrs: { href: "/immigrate#ImmigrateToCan" } }, [
+                _vm._v("Immigrate To Canada ")
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                { attrs: { href: "/immigrate#Immigration-Levels-Plan" } },
+                [_vm._v("Immigration Level ")]
+              ),
+              _vm._v(" "),
+              _c("a", { attrs: { href: "/immigrate#Express-Entry" } }, [
+                _vm._v("Express Entry ")
+              ]),
+              _vm._v(" "),
+              _c(
+                "a",
+                { attrs: { href: "/immigrate#Canadian-Experience-Class" } },
+                [_vm._v("Canadian Experience Class ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  attrs: { href: "/immigrate#Federal-Skilled-Trades-Program" }
+                },
+                [_vm._v("Federal Skilled Trades Program ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                { attrs: { href: "/immigrate#Provincial-Nominee-Program" } },
+                [_vm._v("Provincial Nominee Program ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href: "/immigrate#Atlantic-Immigration-Pilot-Program"
+                  }
+                },
+                [_vm._v("Atlantic Immigration Pilot Program ")]
+              ),
+              _vm._v(" "),
+              _c(
+                "a",
+                {
+                  attrs: {
+                    href:
+                      "/immigrate#Canada-Rural-and-Northern-Immigration-Pilot"
+                  }
+                },
+                [_vm._v("Canada Ruraland Northern Immigration Pilot ")]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/study" } }, [_vm._v("Study Permit")])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/business" } }, [
+              _vm._v("Business Immigration")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/familys" } }, [
+              _vm._v("Family Sponsorship")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/work" } }, [_vm._v("Work Permit")])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/refusal" } }, [
+              _vm._v("Refusal Appeals")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/fees" } }, [_vm._v("Fees")])
+          ]),
+          _vm._v(" "),
+          _c("li", { staticClass: "nav-li" }, [
+            _c("a", { attrs: { href: "/latest" } }, [_vm._v("Latest News")])
           ])
-        ]),
-        _vm._v(" "),
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/business" } }, [
-            _vm._v("Business Immigration")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/refusal" } }, [_vm._v("Refusal Appeals")])
-        ]),
-        _vm._v(" "),
-        _c("li", { staticClass: "nav-li" }, [
-          _c("a", { attrs: { href: "/fees" } }, [_vm._v("Fees")])
         ])
       ])
     ])
@@ -29901,13 +30933,22 @@ var staticRenderFns = [
         _vm._v(
           "Ever since Canada introduced temporary travel restrictions in March 2020 to slow the spread of COVID-19, most Express Entry draws were program-specific.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ]),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        ),
         _vm._v(" "),
         _c("p", [
           _vm._v(
@@ -29969,13 +31010,22 @@ var staticRenderFns = [
         _vm._v(
           "sCandidates outside Canada can still submit an Express Entry profile despite the COVID-related travel restrictions in place. IRCC continues to accept submissions to the Express Entry system, even from candidates who live overseas. \n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ])
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        )
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "spacer" }),
@@ -30002,13 +31052,22 @@ var staticRenderFns = [
         _vm._v(
           "Canada held many program-specific draws like this PNP-specific draw, since the country introduced travel restrictions in March 2020. There is light at the end of the tunnel though as Canada is slowly easing these restrictions.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ]),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        ),
         _vm._v(
           "\n            Immigration, Refugees and Citizenship Canada (IRCC) uses the Express Entry system to manage applications for Canadian permanent residence through one of Canada’s three main economic-class programs: the Federal Skilled Worker Program (FSWP), the Federal Skilled Trades Class (FSTC) and the Canadian Experience Class (CEC).\n"
         ),
@@ -30057,13 +31116,22 @@ var staticRenderFns = [
         _vm._v(
           "If you want to immigrate to Canada, you can still create an Express Entry profile. IRCC still continues to accept admissions to the Express Entry system, despite travel restrictions currently in place.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ])
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        )
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "spacer" }),
@@ -30126,13 +31194,22 @@ var staticRenderFns = [
         _vm._v(
           "Usually, holders of expired COPRs would have to reapply for permanent residence. However, IRCC is making an exception for those who weren't able to travel because of the travel restrictions that were in place.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ]),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        ),
         _vm._v(" "),
         _c("h3", [_vm._v("What documents can Canada ask for?")]),
         _vm._v(
@@ -30179,13 +31256,22 @@ var staticRenderFns = [
         _vm._v(
           "Vaccinated travellers have to submit their COVID-19 related information on the ArriveCAN mobile app.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ])
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        )
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "spacer" }),
@@ -30255,13 +31341,22 @@ var staticRenderFns = [
           ])
         ]),
         _vm._v(" "),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ]),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        ),
         _vm._v(
           "\n            Invited candidates must have at least one year of work experience in one of the above occupations to be eligible to receive a provincial nomination from the OINP.\n"
         ),
@@ -30324,13 +31419,22 @@ var staticRenderFns = [
         _vm._v(
           " If eligible, the OINP will choose you from the Express Entry pool of candidates. You must have shown interest to immigrate to Ontario.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ])
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        )
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "spacer" }),
@@ -30388,13 +31492,22 @@ var staticRenderFns = [
         _vm._v(
           "Candidates are given a point score out of 100 based on these factors. and according to the International Skilled Worker Points Assessment Grid. The highest scoring candidates are invited to apply for a provincial nomination.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ]),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        ),
         _vm._v(" "),
         _c("h3", [
           _c("b", [_vm._v("Saskatchewan Express Entry sub-category")])
@@ -30452,13 +31565,22 @@ var staticRenderFns = [
         _vm._v(
           "Those who completed an EOI, meet the minimum requirements and have scored a 82 on the Points Assessment Grid, were invited in the latest draw.\n            "
         ),
-        _c("a", { attrs: { href: "" } }, [
-          _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-            _vm._v(
-              "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
-            )
-          ])
-        ])
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+              _vm._v(
+                "Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!"
+              )
+            ])
+          ]
+        )
       ])
     ])
   }
@@ -30638,32 +31760,44 @@ var staticRenderFns = [
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "serv-s" }, [
-        _c("a", { attrs: { href: "/" } }, [
-          _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
-            }),
-            _vm._v(" "),
-            _c("div", { staticClass: "serv-box-title" }, [
-              _c("h2", [_vm._v("Immigrate to Canada")])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "serv-box-des" }, [
-              _c("p", [
-                _vm._v(
-                  "Details on how to make your dream of moving to canada come true. More than 100 programs to choose from"
-                )
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+            }
+          },
+          [
+            _c("div", { staticClass: "serv-box" }, [
+              _c("i", {
+                staticClass: "fab fa-canadian-maple-leaf",
+                staticStyle: { "font-size": "50px", color: "#E3242C" }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "serv-box-title" }, [
+                _c("h2", [_vm._v("Immigrate to Canada")])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "serv-box-des" }, [
+                _c("p", [
+                  _vm._v(
+                    "Details on how to make your dream of moving to canada come true. More than 100 programs to choose from"
+                  )
+                ])
               ])
             ])
-          ])
-        ]),
+          ]
+        ),
         _vm._v(" "),
         _c("a", { attrs: { href: "/study" } }, [
           _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
+            _c("i", {
+              staticClass: "fas fa-user-graduate",
+              staticStyle: {
+                "font-size": "50px",
+                color: "rgba(38, 40, 168, 0.829)"
+              }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "serv-box-title" }, [
@@ -30682,9 +31816,9 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("a", { attrs: { href: "/business" } }, [
           _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
+            _c("i", {
+              staticClass: "far fa-chart-bar",
+              staticStyle: { "font-size": "50px", color: "rgb(1, 97, 17)" }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "serv-box-title" }, [
@@ -30703,9 +31837,9 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("a", { attrs: { href: "/familys" } }, [
           _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
+            _c("i", {
+              staticClass: "fas fa-home",
+              staticStyle: { "font-size": "50px", color: "rgb(35, 1, 97)" }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "serv-box-title" }, [
@@ -30724,9 +31858,9 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("a", { attrs: { href: "/work" } }, [
           _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
+            _c("i", {
+              staticClass: "fas fa-briefcase",
+              staticStyle: { "font-size": "50px", color: "rgb(114, 52, 24)" }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "serv-box-title" }, [
@@ -30745,9 +31879,9 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("a", { attrs: { href: "/refusal" } }, [
           _c("div", { staticClass: "serv-box" }, [
-            _c("img", {
-              staticClass: "serv-box-pic",
-              attrs: { src: "/images/Westford-2.png", alt: "" }
+            _c("i", {
+              staticClass: "fas fa-gavel",
+              staticStyle: { "font-size": "50px", color: "rgb(24, 100, 114)" }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "serv-box-title" }, [
@@ -31110,63 +32244,166 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [
-          _vm._v("LMIA Required")
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " These work permits require the employer to obtain a Labour Market Impact Assessment as part of the process. "
-          )
-        ]),
-        _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [
-          _vm._v("LMIA Exempt")
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " Certain circumstances allow for individuals to work in Canada without first obtaining a Labour Market Impact Assessment."
-          )
-        ]),
-        _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [_vm._v("CUSMA")]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " These are issued under the Canada-United-States-Mexico Agreement (formerly NAFTA), allowing work without an LMIA."
-          )
-        ]),
-        _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [
-          _vm._v("Intra-Company Transfers")
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " These permits will allow a company to bring certain employees to Canada from its offices abroad without a LMIA"
-          )
-        ]),
-        _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [
-          _vm._v("Business Visitors")
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " In many cases, business visitors may work in Canada without a work permit, so long as they meet certain conditions and don't enter the Canadian labour market."
-          )
-        ]),
-        _vm._v(" "),
-        _c("h3", { staticClass: "text-cent text-head" }, [
-          _vm._v("Post-Graduation Work Permits")
-        ]),
-        _vm._v(" "),
-        _c("p", { staticClass: "text-cent" }, [
-          _vm._v(
-            " After graduating from a Designated Learning Institution, international students in Canada may work for up to three years."
-          )
+        _c("div", { staticClass: "work-border" }, [
+          _c("h3", { staticClass: "text-cent text-head" }, [
+            _vm._v("LMIA Required")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " These work permits require the employer to obtain a Labour Market Impact Assessment as part of the process. "
+            )
+          ]),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-cent text-head" }, [
+            _vm._v("LMIA Exempt")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " Certain circumstances allow for individuals to work in Canada without first obtaining a Labour Market Impact Assessment."
+            )
+          ]),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-cent text-head" }, [_vm._v("CUSMA")]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " These are issued under the Canada-United-States-Mexico Agreement (formerly NAFTA), allowing work without an LMIA."
+            )
+          ]),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-cent text-head" }, [
+            _vm._v("Intra-Company Transfers")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " These permits will allow a company to bring certain employees to Canada from its offices abroad without a LMIA"
+            )
+          ]),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-cent text-head" }, [
+            _vm._v("Business Visitors")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " In many cases, business visitors may work in Canada without a work permit, so long as they meet certain conditions and don't enter the Canadian labour market."
+            )
+          ]),
+          _vm._v(" "),
+          _c("h3", { staticClass: "text-cent text-head" }, [
+            _vm._v("Post-Graduation Work Permits")
+          ]),
+          _vm._v(" "),
+          _c("p", { staticClass: "text-cent" }, [
+            _vm._v(
+              " After graduating from a Designated Learning Institution, international students in Canada may work for up to three years."
+            )
+          ])
         ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada&":
+/*!**************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/components/layouts/appointment/AppBar.vue?vue&type=template&id=43f8dada& ***!
+  \**************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render),
+/* harmony export */   "staticRenderFns": () => (/* binding */ staticRenderFns)
+/* harmony export */ });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "a-pic" }, [
+        _c("img", {
+          staticClass: "app-pic",
+          attrs: { src: "/images/Westford-2.png", alt: "" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "app-book" }, [
+        _c(
+          "a",
+          { staticClass: "app-b-box", attrs: { href: "/appointment20" } },
+          [
+            _c("div", {}, [
+              _c("b", [_vm._v("20 Min – Virtual Consultation ")]),
+              _vm._v(" "),
+              _c("p", { staticStyle: { color: "black" } }, [
+                _vm._v(
+                  "Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs."
+                )
+              ]),
+              _vm._v(" "),
+              _c("br"),
+              _vm._v(" "),
+              _c("u", [_vm._v("READ MORE")])
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "a",
+          { staticClass: "app-b-box", attrs: { href: "/appointment40" } },
+          [
+            _c("div", [
+              _c("b", [_vm._v("40 Min – Virtual Consultation ")]),
+              _vm._v(" "),
+              _c("p", { staticStyle: { color: "black" } }, [
+                _vm._v(
+                  "Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs."
+                )
+              ]),
+              _vm._v(" "),
+              _c("br"),
+              _vm._v(" "),
+              _c("u", [_vm._v("READ MORE")])
+            ])
+          ]
+        ),
+        _vm._v(" "),
+        _c(
+          "a",
+          { staticClass: "app-b-box", attrs: { href: "/appointment60" } },
+          [
+            _c("div", [
+              _c("b", [_vm._v("60 Min – Virtual Consultation ")]),
+              _vm._v(" "),
+              _c("p", { staticStyle: { color: "black" } }, [
+                _vm._v(
+                  "Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs."
+                )
+              ]),
+              _vm._v(" "),
+              _c("br"),
+              _vm._v(" "),
+              _c("u", [_vm._v("READ MORE")])
+            ])
+          ]
+        )
       ])
     ])
   }
@@ -31200,7 +32437,20 @@ var render = function() {
       _vm._v(" "),
       _c("Navi"),
       _vm._v(" "),
-      _vm._m(0),
+      _c(
+        "div",
+        { staticClass: "study", attrs: { id: "Appointment20Min" } },
+        [
+          _vm._m(0),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("AppBar")
+        ],
+        1
+      ),
       _vm._v(" "),
       _c("Footer")
     ],
@@ -31212,89 +32462,38 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "study", attrs: { id: "Appointment20Min" } },
-      [
-        _c("div", { staticClass: "stu-head" }, [
-          _c("h2", { staticClass: "text-head" }, [
-            _vm._v("20 Min – Virtual Consultation – CAD 66")
-          ]),
-          _vm._v(" "),
-          _c("h3", [
-            _vm._v("Web conferencing details provided upon confirmation")
-          ]),
-          _vm._v(" "),
-          _c("br"),
-          _vm._v(
-            "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
-          )
-        ]),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("div", { staticClass: "a-pic" }, [
-          _c("img", {
-            staticClass: "app-pic",
-            attrs: { src: "/images/Westford-2.png", alt: "" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "app-book" }, [
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment20" } },
-            [
-              _c("div", {}, [
-                _c("b", [_vm._v("20 Min – Virtual Consultation – CAD 66")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment40" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("40 Min – Virtual Consultation – CAD 125")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment60" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("60 Min – Virtual Consultation – CAD 180 ")])
-              ])
-            ]
-          )
-        ])
-      ]
-    )
+    return _c("div", { staticClass: "stu-head" }, [
+      _c("h2", { staticClass: "text-head" }, [
+        _vm._v("20 Min – Virtual Consultation – $52USD")
+      ]),
+      _vm._v(" "),
+      _c("h3", [_vm._v("Web conferencing details provided upon confirmation")]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(
+        "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
+      )
+    ])
   }
 ]
 render._withStripped = true
@@ -31326,7 +32525,20 @@ var render = function() {
       _vm._v(" "),
       _c("Navi"),
       _vm._v(" "),
-      _vm._m(0),
+      _c(
+        "div",
+        { staticClass: "study", attrs: { id: "Appointment40Min" } },
+        [
+          _vm._m(0),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("AppBar")
+        ],
+        1
+      ),
       _vm._v(" "),
       _c("Footer")
     ],
@@ -31338,89 +32550,38 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "study", attrs: { id: "Appointment40Min" } },
-      [
-        _c("div", { staticClass: "stu-head" }, [
-          _c("h2", { staticClass: "text-head" }, [
-            _vm._v("40 Min – Virtual Consultation – CAD 125")
-          ]),
-          _vm._v(" "),
-          _c("h3", [
-            _vm._v("Web conferencing details provided upon confirmation")
-          ]),
-          _vm._v(" "),
-          _c("br"),
-          _vm._v(
-            "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
-          )
-        ]),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("div", { staticClass: "a-pic" }, [
-          _c("img", {
-            staticClass: "app-pic",
-            attrs: { src: "/images/Westford-2.png", alt: "" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "app-book" }, [
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment20" } },
-            [
-              _c("div", {}, [
-                _c("b", [_vm._v("20 Min – Virtual Consultation – CAD 66")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment40" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("40 Min – Virtual Consultation – CAD 125")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment60" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("60 Min – Virtual Consultation – CAD 180 ")])
-              ])
-            ]
-          )
-        ])
-      ]
-    )
+    return _c("div", { staticClass: "stu-head" }, [
+      _c("h2", { staticClass: "text-head" }, [
+        _vm._v("40 Min – Virtual Consultation – $100 USD")
+      ]),
+      _vm._v(" "),
+      _c("h3", [_vm._v("Web conferencing details provided upon confirmation")]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(
+        "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
+      )
+    ])
   }
 ]
 render._withStripped = true
@@ -31452,7 +32613,20 @@ var render = function() {
       _vm._v(" "),
       _c("Navi"),
       _vm._v(" "),
-      _vm._m(0),
+      _c(
+        "div",
+        { staticClass: "study", attrs: { id: "Appointment60Min" } },
+        [
+          _vm._m(0),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("br"),
+          _vm._v(" "),
+          _c("AppBar")
+        ],
+        1
+      ),
       _vm._v(" "),
       _c("Footer")
     ],
@@ -31464,89 +32638,38 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "study", attrs: { id: "Appointment60Min" } },
-      [
-        _c("div", { staticClass: "stu-head" }, [
-          _c("h2", { staticClass: "text-head" }, [
-            _vm._v("60 Min – Virtual Consultation – CAD 180 ")
-          ]),
-          _vm._v(" "),
-          _c("h3", [
-            _vm._v("Web conferencing details provided upon confirmation")
-          ]),
-          _vm._v(" "),
-          _c("br"),
-          _vm._v(
-            "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
-          ),
-          _c("br"),
-          _c("br"),
-          _vm._v(
-            "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
-          )
-        ]),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("br"),
-        _vm._v(" "),
-        _c("div", { staticClass: "a-pic" }, [
-          _c("img", {
-            staticClass: "app-pic",
-            attrs: { src: "/images/Westford-2.png", alt: "" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "app-book" }, [
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment20" } },
-            [
-              _c("div", {}, [
-                _c("b", [_vm._v("20 Min – Virtual Consultation – CAD 66")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment40" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("40 Min – Virtual Consultation – CAD 125")])
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "a",
-            { staticClass: "app-b-box", attrs: { href: "/appointment60" } },
-            [
-              _c("div", [
-                _c("b", [_vm._v("60 Min – Virtual Consultation – CAD 180 ")])
-              ])
-            ]
-          )
-        ])
-      ]
-    )
+    return _c("div", { staticClass: "stu-head" }, [
+      _c("h2", { staticClass: "text-head" }, [
+        _vm._v("60 Min – Virtual Consultation – $140USD ")
+      ]),
+      _vm._v(" "),
+      _c("h3", [_vm._v("Web conferencing details provided upon confirmation")]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(
+        "\n                Md Ashiqur Rahman is a Regulated Canadian Immigration Consultant (License no. is R708023). His area of expertise include Economic and Business Migration, Provincial Nomination Programs, Study Permit, Work Permit, Family Sponsorship programs. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "This booking is for a consultation over the period of 20 minutes and will be as per the terms & conditions set out in the initial consultation agreement as listed on our website. \n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We request you to provide as much details about the issue in discussion as possible. This enables us to be better prepared for the meeting and to provide you with prompt accurate solutions. There are almost 100 Canadian immigration programs. It is practically not possible for the consultant to be familiar and updated with all the requirements, criteria, changes and updates at all time. Similar applies for the regulatory requirements for different occupations for each provinces as this varies frequently and is a vast subject that needs detailed review. If need be, the consultant at his discretion may email you with follow up details as discussed during the conversation whereas necessary.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "The consultation may be recorded for our record, reference, training and quality check. In case you do not want the consultation to be recorded, please let the consultant know at the very beginning of the session. By proceeding to book the call, you consent and agree for the call to be recorded.\n"
+      ),
+      _c("br"),
+      _c("br"),
+      _vm._v(
+        "We will not be able to review/assess profile or documents or NOC during the discussion call as that takes time and relevant resources. Should you desire as such, you may avail our specific services for the same.\n\n            "
+      )
+    ])
   }
 ]
 render._withStripped = true
@@ -33057,13 +34180,22 @@ var staticRenderFns = [
           _vm._v(
             "Moreover, the pandemic has led to Canada strengthening its commitment to immigration. Near the end of 2020, Canada announced it will increase its annual immigration target to over 400,000 new immigrants per year, which is the highest level in its history. Prior to the COVID-19 pandemic, Canada's target was over 340,000 new immigrants per year. At the beginning of 2021, Canada's Immigration Minister Marco Mendicino expressed confidence that these high immigration targets are realistic during the pandemic. Please visit CanadaVisa's COVID-19 page for the latest updates.\n            "
           ),
-          _c("a", { attrs: { href: "" } }, [
-            _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
-              _vm._v(
-                "Complete our free assessment to find out if you are eligible to immigrate to Canada"
-              )
-            ])
-          ]),
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"
+              }
+            },
+            [
+              _c("h3", { staticClass: "stu-canvisa-link text-cent" }, [
+                _vm._v(
+                  "Complete our free assessment to find out if you are eligible to immigrate to Canada"
+                )
+              ])
+            ]
+          ),
           _vm._v(" "),
           _c("h3", [_c("b", [_vm._v(" Why Does Canada Need Immigrants? ")])]),
           _vm._v(

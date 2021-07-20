@@ -2,7 +2,7 @@
     <div>
 
         <Head />
-            
+        <Navi />
         <div class="study" id="career">
             <div stu-head>
                 <h2 class="text-head">Career</h2>
@@ -26,13 +26,14 @@
 
 <script>
 import Head from './layouts/Head.vue'
+import Navi from './layouts/Navi.vue'
 import Footer from './layouts/Footer.vue'
 
 
 export default {
     name:'About',
     components:{
-        Head, Footer,
+        Head, Footer, Navi
     }
 }
 </script>

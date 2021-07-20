@@ -126,7 +126,8 @@
                 <li>not be the person being sponsored,</li>
                 <li>have cohabited with you in a conjugal relationship for at least one year.</li>
             </ul>
-            <a class="stu-canvisa-link" href=""><h3>Find out if you are eligible to sponsor your parents and grandparents</h3> </a>
+            <a class="stu-canvisa-link" href="">Find out if you are eligible to sponsor your parents and grandparents</a>
+
             <a class="text-link" href=""><h3>Super Visa Program</h3> </a>
             <p>The Super Visa program allows parents and grandparents to come to Canada on extended multiple-entry visas that can last up to 10 years in total. This program is always open, and it is possible to apply at the same time as the to PGP.</p>
             <p><b>To be eligible under the Super Visa Program, you must:</b></p>
@@ -137,8 +138,7 @@
                 <li>apply for the super visa from outside Canada. </li>
             </ul>
             <p>In addition, your Canadian child or grandchild will have to prove that their household meets the minimum necessary income.</p>
-            <a class="stu-canvisa-link" href="mailto:"><h3> Contact us if you want to apply for a Super Visa! </h3> </a>
-            
+            <a class="stu-canvisa-link" href="mailto:">Contact us if you want to apply for a Super Visa!  </a>
 
 
 

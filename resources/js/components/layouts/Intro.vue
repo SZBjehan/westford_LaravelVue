@@ -7,23 +7,39 @@
                 <div class="carousel-inner">
                     <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
                     <div class="carousel-item">
-                        <img src="/images/can-flag.jpg">
-                        <!-- <h2 class="intro-text">How can we help you immigrate to canada?</h2> -->
+                        <div class="assesment as">
+                            <a href="/immigrate#Express-Entry"> <h2><i class="text-head"> Express Entry </i></h2> </a>
+                            <p>Find out what it takes to be eligible for Canadian immigration and begin your clear path to Canada.</p>
+                            <a style="padding: 2px" href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform">Get your free assesment</a> <br> <br>
+                            Express Entry is Canada's main pathway for skilled workers. Canada aims to welcome 110,000 new immigrants under Express Entry each year. <br>
+                        </div>
+                        <img class="ass" src="/images/landingPage1.jpg">
                     </div>
                     <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
                     <div class="carousel-item">
-                        <img src="/images/can-flag2.jpg">
+                        <div class="assesment">
+                            <h2> Don’t be a victim of frauds! Many firms only mention names of lawyers or RCICs, but they don’t retain their service! If you are not signing a retainer agreement directly with an RCIC, you are being cheated!!</h2>
+                        </div>
+                        <img class="ass" src="/images/landingPage2.jpg">
                     </div>
                     <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
                     <div class="carousel-item">
-                        <img src="/images/Westford-head.jpg">
+                        <h2 class="assesment" style="color:#ffffff"><i> What are your ACTUAL ways of success? Which programs are best fit for you? It costs little to consult but can save you big time in long run! </i></h2> 
+                        <img src="/images/landingPage3.jpg">
                     </div>
-                    <label for="carousel-3" class="carousel-control prev control-1">‹</label>
+                    <input class="carousel-open" type="radio" id="carousel-4" name="carousel" aria-hidden="true" hidden="">
+                    <div class="carousel-item">
+                        <h2 class="assesment" style="color:#000000"><i> Claim a referral bonus of $150 for every friends that retain our service! </i></h2>
+                        <img src="/images/landingPage4.png">
+                    </div>
+                    <label for="carousel-4" class="carousel-control prev control-1">‹</label>
                     <label for="carousel-2" class="carousel-control next control-1">›</label>
                     <label for="carousel-1" class="carousel-control prev control-2">‹</label>
                     <label for="carousel-3" class="carousel-control next control-2">›</label>
                     <label for="carousel-2" class="carousel-control prev control-3">‹</label>
-                    <label for="carousel-1" class="carousel-control next control-3">›</label>
+                    <label for="carousel-4" class="carousel-control next control-3">›</label>
+                    <label for="carousel-3" class="carousel-control next control-4">‹</label>
+                    <label for="carousel-1" class="carousel-control next control-4">›</label>
                     <ol class="carousel-indicators">
                         <li>
                             <label for="carousel-1" class="carousel-bullet">•</label>
@@ -34,10 +50,13 @@
                         <li>
                             <label for="carousel-3" class="carousel-bullet">•</label>
                         </li>
+                        <li>
+                            <label for="carousel-4" class="carousel-bullet">•</label>
+                        </li>
                     </ol>
                 </div>
             </div>
-
+            
 
 
 
@@ -135,7 +154,8 @@ html, body {
 
 #carousel-1:checked ~ .control-1,
 #carousel-2:checked ~ .control-2,
-#carousel-3:checked ~ .control-3 {
+#carousel-3:checked ~ .control-3,
+#carousel-4:checked ~ .control-4 {
     display: block;
 }
 
@@ -169,7 +189,8 @@ html, body {
 
 #carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,
 #carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,
-#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {
+#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet,
+#carousel-4:checked ~ .control-4 ~ .carousel-indicators li:nth-child(4) .carousel-bullet {
     color: #428bca;
 }
 
@@ -185,14 +206,6 @@ html, body {
     z-index: 9999;
     text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);
 }
-
-
-
-
-
-
-
-
 
 
 

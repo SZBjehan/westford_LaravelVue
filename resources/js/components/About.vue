@@ -2,8 +2,13 @@
     <div>
 
         <Head />
+        <Navi />
             
-        <div class="text-cent"><img src="/images/my-photo.jpg" class="myPhoto" alt="My Photo"></div>
+        <div class="text-cent">
+            <img src="/images/myPhoto.jpg" class="myPhoto" alt="My Photo">
+            <!-- <h2>Md Ashiqur Rahman</h2>
+            <h3><b>RCIC, R708023</b></h3> -->
+        </div>
 
         <div class="study" id="about">
             <div stu-head>
@@ -42,14 +47,14 @@
 
 <script>
 import Head from './layouts/Head.vue'
-
+import Navi from './layouts/Navi.vue'
 import Footer from './layouts/Footer.vue'
 
 
 export default {
     name:'About',
     components:{
-        Head, Footer,
+        Head, Footer, Navi
     }
 }
 </script>

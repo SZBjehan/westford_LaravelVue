@@ -2,6 +2,7 @@
     <div>
 
         <Head />
+        <Navi />
             
         <div class="study" id="contact">
             <div stu-head>
@@ -36,13 +37,14 @@
 
 <script>
 import Head from './layouts/Head.vue'
+import Navi from './layouts/Navi.vue'
 import Footer from './layouts/Footer.vue'
 
 
 export default {
     name:'Contact',
     components:{
-        Head, Footer,
+        Head, Footer, Navi
     }
 }
 </script>

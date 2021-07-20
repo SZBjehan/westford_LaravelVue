@@ -10,7 +10,7 @@
         <br><br>A day earlier, Canada invited 627 Provincial Nominee Program (PNP) candidates to apply for permanent residence. The PNP allows Canadian provinces to select and nominate candidates for permanent residence.
         <br><br>Invited candidates must have had a CRS score of at least 760. Provincial nominees get an extra 600 points, which means that they must have had just 160 core points.
         <br><br>Ever since Canada introduced temporary travel restrictions in March 2020 to slow the spread of COVID-19, most Express Entry draws were program-specific.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             <p> Canada uses the Express Entry system to manage permanent residence applications through the three main economic-class programs </p>
             <ul>
                 <li>the Federal Skilled Worker Program (FSWP) </li>
@@ -29,7 +29,7 @@
 <br><br>It is therefore likely that these candidates are currently residing in Canada.
 <br><br>The country also aims to welcome over 400,000 immigrants in 2022 and in 2023.
 <br><br>sCandidates outside Canada can still submit an Express Entry profile despite the COVID-related travel restrictions in place. IRCC continues to accept submissions to the Express Entry system, even from candidates who live overseas. 
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             
         </div>
         <div class="spacer"></div>
@@ -39,7 +39,7 @@
 <br><br>The minimum Comprehensive Ranking System (CRS) needed to get an Invitation to Apply (ITA) was 760.
 <br><br>Those who receive a nomination from a Canadian province get an extra 600 CRS points, which means they only needed 160 core points to be eligible for today's draw.
 <br><br>Canada held many program-specific draws like this PNP-specific draw, since the country introduced travel restrictions in March 2020. There is light at the end of the tunnel though as Canada is slowly easing these restrictions.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             Immigration, Refugees and Citizenship Canada (IRCC) uses the Express Entry system to manage applications for Canadian permanent residence through one of Canada’s three main economic-class programs: the Federal Skilled Worker Program (FSWP), the Federal Skilled Trades Class (FSTC) and the Canadian Experience Class (CEC).
 <br><br>Canadian provinces and territories (except Quebec and Nunavut) have immigration programs that are aligned with the federal Express Entry system. 
 <br><br>Candidates who create an Express Entry profile are given a CRS score. This score is based on your age, education, work experience, language proficiency as well as other factors.
@@ -50,7 +50,7 @@
 <br><br>Canada is committed to meeting its immigration targets this year and is looking to invite many more people to apply for permanent residence.
 <br><br>In fact, Canada is looking to welcome over 400,000 immigrants every year between 2021 and 2023. 
 <br><br>If you want to immigrate to Canada, you can still create an Express Entry profile. IRCC still continues to accept admissions to the Express Entry system, despite travel restrictions currently in place.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
 
         </div>
         <div class="spacer"></div>
@@ -69,7 +69,7 @@
 <br><br>According to IRCC, most people with expired COPRs that were issued on or before March 18, 2020 have been contacted.
 <br><br>If you already received instructions to do a medical exam or to submit new documents, follow these instructions and wait to be contacted. You don't have to contact IRCC again.
 <br><br>Usually, holders of expired COPRs would have to reapply for permanent residence. However, IRCC is making an exception for those who weren't able to travel because of the travel restrictions that were in place.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             <h3>What documents can Canada ask for?</h3>
             When IRCC contacts you by email, you will be asked about your family situation and if it has been changed. For example, if you got married, divorced, or had a new child.
 <br><br>If there has been a change, IRCC will ask for relevant documents.
@@ -81,7 +81,7 @@
 <br><br>All travellers to Canada will still need to take a COVID-19 test before travelling to Canada, and upon arrival in Canada.
 <br><br>Travellers can show a negative COVID-19 test administered within 72 hours before arriving in Canada, or show a positive COVID-19 test administered between 14 and 90 days prior to travelling to Canada.
 <br><br>Vaccinated travellers have to submit their COVID-19 related information on the ArriveCAN mobile app.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
 
         </div>
         <div class="spacer"></div>
@@ -106,7 +106,7 @@
                 <li>Business development officers and marketing researchers and consultants (NOC 4163). </li>
 
             </ul>
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             Invited candidates must have at least one year of work experience in one of the above occupations to be eligible to receive a provincial nomination from the OINP.
 <br><br>Those who are successful will receive a provincial nomination from Ontario. They will be able to use the nomination to apply for permanent residence through the Express Entry system. 
 <br><br>Express Entry is the system that the federal Canadian government uses to manage permanent residence applications through three main economic class immigration programs: the Federal Skilled Worker Program (FSWP), the Federal Skilled Trades Program (FSTP) and the Canadian Experience Class (CEC). 
@@ -121,7 +121,7 @@
             If you wish to immigrate to Ontario and receive an invitation to apply for a provincial nomination, follow these two steps:
 <br><br><u> Step 1:</u> Create an Express Entry profile.
 <br><br><u> Step 2:</u> If eligible, the OINP will choose you from the Express Entry pool of candidates. You must have shown interest to immigrate to Ontario.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
 
         </div>
         <div class="spacer"></div>
@@ -139,7 +139,7 @@
             The EOI system is used to select the candidates that would likely be the most successful in the province's labour market. Candidates with EOI profiles are assessed based on multiple factors such as their work experience, education, language ability, age as well as connections to the province.
 <br><br>Connections to the province can include having a job offer, or having a relative living in Saskatchewan.
 <br><br>Candidates are given a point score out of 100 based on these factors. and according to the International Skilled Worker Points Assessment Grid. The highest scoring candidates are invited to apply for a provincial nomination.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
             <h3><b>Saskatchewan Express Entry sub-category</b></h3>
             <p>Canada uses the Express Entry system to manage permanent residence applications through three main economic class immigration programs:</p>
             <ul>
@@ -156,7 +156,7 @@
 <br><br>Candidates do not need to have an Express Entry profile to be eligible. This sub-category is for candidates who have work experience in occupations that would address the province’s labour shortages. 
 <br><br>These candidates would not need to have a job offer to be eligible. Foreign nationals are required to create an EOI profile through the province's online application system. 
 <br><br>Those who completed an EOI, meet the minimum requirements and have scored a 82 on the Points Assessment Grid, were invited in the latest draw.
-            <a href=""><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbyqghvMVhfI74pOVvhEAi6JXPJJuph5NdBq6VQFdUh9wSRg/viewform"><h3 class="stu-canvisa-link text-cent">Complete our FREE Express Entry form to see if you are eligible to immigrate to Canada!</h3> </a>
 
 
         </div>
